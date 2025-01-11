@@ -4,7 +4,9 @@ I'm a MERN stack developer with experience building full-stack web applications 
 
 ## Skills
 
-- **Front-end:** HTML, CSS, JavaScript, React, Redux, Bootstrap, Material UI, Vue.JS
-- **Back-end:** Node.js, Express, MongoDB, Mongoose, REST APIs
-- **Tools:** Git, GitHub, VS Code, Postman, Heroku, Netlify
+- **Front-end:** HTML, CSS, JavaScript, React, Redux, Bootstrap, Material UI, Vue.JS, Next JS, Remix
+- **Back-end:** Node.js, Python, Express, MongoDB, Mongoose, REST APIs
+- **Tools:** Git, GitHub, VS Code, Postman, AWS, GCP
+
+Checkout my portfolio at [https://abhi0498.github.io/portfolio/](https://abhi0498.github.io/portfolio/)
 
